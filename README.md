@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### My name is Michelle!
 
+I am a third year Engineering Physics Student 🚀⚛️ at the University of British Columbia 📚🎓️
+
 <!--
 **floatingturnip/floatingturnip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
