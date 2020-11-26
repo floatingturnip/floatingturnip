@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
+- 👯 I’m looking to get involved with working on more open source code!
 - 🌱 I’m currently learning about Machine Learning, computer vision, and mobile and web app development
 - 🔭 I’m currently working on a self driving car program that can read license plates and report the location of the vehicle
 - 😄 Pronouns: (she/her)
