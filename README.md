@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 👯 I’m looking to get involved with working on more open source code!
-- 🌱 I’m currently learning about Machine Learning, computer vision, and mobile and web app development
-- 🔭 I’m currently working on a self driving car program that can read license plates and report the location of the vehicle
+- 👯 I’m looking to get involved withopen source code!
+- 🌱 I’m currently learning about Machine Learning, quantum computing, and mobile and web app development
+- 🔭 I’m currently working on an interactive physics simulation
 - 😄 Pronouns: (she/her)
 - ⚡ Fun fact: I have driven and helped build a car that can achieve a fuel efficiency of 2229 mpg! Check it out here: https://www.supermileage.ca/
 
