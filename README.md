@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 👯 I’m looking to get involved withopen source code!
+- 👯 I’m looking to get involved with research involving wifi networks!
 - 🌱 I’m currently learning about Machine Learning, quantum computing, and mobile and web app development
 - 🔭 I’m currently working on an interactive physics simulation
 - 😄 Pronouns: (she/her)
