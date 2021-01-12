@@ -12,13 +12,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: (she/her)
+- 💾 I have experience with
+
 
 -->
 
-- 👯 I’m looking to get involved with research involving wifi networks!
-- 🌱 I’m currently learning about Machine Learning, quantum computing, and mobile and web app development
-- 🔭 I’m currently working on an interactive physics simulation
+- 👯 I’m looking for a team for Hack the North 😊!
+- 🌱 I’m currently learning about Machine Learning, quantum computing, and superconducitivity 
+- 🔭 I’m currently working on research related to superconductivity 🧊
 - 😄 Pronouns: (she/her)
 - ⚡ Fun fact: I have driven and helped build a car that can achieve a fuel efficiency of 2229 mpg! Check it out here: https://www.supermileage.ca/
 
