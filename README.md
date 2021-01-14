@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 💾 I have experience with
-
+- 👯 I’m looking for a team for Hack the North 😊!
 
 -->
 
-- 👯 I’m looking for a team for Hack the North 😊!
+
 - 🌱 I’m currently learning about Machine Learning, quantum computing, and superconducitivity 
 - 🔭 I’m currently working on research related to superconductivity 🧊
 - 😄 Pronouns: (she/her)
