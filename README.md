@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning about Machine Learning, quantum computing, and superconductivity 
-- 🔭 I’m currently working on research related to superconductivity 🧊
+- 🌱 I’m currently learning about quantum computing, and superconductivity 
+- 🔭 I’m currently working on building my own text editor in C 💻 <!--research related to superconductivity 🧊-->
 - 😄 Pronouns: (she/her)
 - ⚡ Fun fact: I have driven and helped build a car that can achieve a fuel efficiency of 2229 mpg! Check it out here: https://www.supermileage.ca/
 
