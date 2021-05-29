@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning about quantum computing, and superconductivity 
-- 🔭 I’m currently working on improving the matching algorithm of a coffee casual chat program known as fizz beans ☕💻 <!--research related to superconductivity 🧊-->
+- 🌱 I’m currently learning about wifi networks
+- 🔭 I’m currently working on improving the matching algorithm of a coffee casual chat program known as fizz beans ☕💻 
 - 😄 Pronouns: (she/her)
 - ⚡ Fun fact: I have driven and helped build a car that can achieve a fuel efficiency of 2229 mpg! Check it out here: https://www.supermileage.ca/
 
