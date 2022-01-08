@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 💾 I have experience with
-- 👯 I’m looking for a team for Hack the North 😊!
+- 👯 I’m looking for  😊!
 
 -->
 
 
-- 🌱 I’m currently learning about wifi networks
+- 🌱 I’m currently learning about electronic design
 - 🔭 I’m currently working on improving the matching algorithm of a coffee casual chat program known as fizz beans ☕💻 
 - 😄 Pronouns: (she/her)
 - ⚡ Fun fact: I have driven and helped build a car that can achieve a fuel efficiency of 2229 mpg! Check it out here: https://www.supermileage.ca/
